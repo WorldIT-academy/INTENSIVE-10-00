@@ -5,7 +5,7 @@
 * customtkinter - grafical user interface
 * pillow - image handler
 * pyautogui - interactive with screen 
-* pygame - transform the image
+* time - sleep time
   
 ### BASE MODULES PYTHON
 
